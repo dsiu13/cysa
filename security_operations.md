@@ -107,7 +107,7 @@ Network-related
 
 ### Common techniques
 - **Pattern recognition**: Algo that looks for patterns and regularities in data
-- **Command and control**: Chain of command. Determines authority.
+- **Command and control**: Methods used to communicate with and control an infected machine or network.
 - **Interpreting suspicious commands**: sudo, chmod. Access and manipulation of passwd or shadow file.
 - **Email analysis**: Turn headers into a human readable format.
 - **Header fields**: List of strings received by client and server on http requests. Invis to end-user and logged by server and client app.
